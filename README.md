@@ -1,19 +1,16 @@
 # 👋 Olá, sou o Marcelo
 
-**UX & Cibersegurança | Criador do mindbase.live**
-
-Sou um profissional focado na interseção entre a criação ágil de produtos digitais e a segurança de sistemas. Aliando o design de interfaces (UX) ao desenvolvimento *low-code*, procuro construir plataformas funcionais e proteger as infraestruturas que as movem.
+**UX & Cibersegurança 
 
 ### 🎓 Formação & Certificações
 * **CTeSP em Segurança e Proteção de Dados** | IPCA (2026 – Presente)
-* **Google UX Design** | Coursera
-* **Google AI** | Coursera
+* **Google UX Design**
+* **Google AI**
 
 ### 🔐 Áreas de Foco
 * Cibersegurança e Proteção de Dados
 * Segurança da Informação e Privacidade
 * UX/UI e Desenvolvimento Low-Code
-* Redes e Gestão de Máquinas Virtuais
 
 ### 🛠️ Tecnologias e Ferramentas
 * **Desenvolvimento:** Lovable | Google AI Studio | Integração de APIs 
