@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Marcelo
 
-**UX & Cibersegurança 
+**UX & Cibersegurança**
 
 ### 🎓 Formação & Certificações
 * **CTeSP em Segurança e Proteção de Dados** | IPCA (2026 – Presente)
