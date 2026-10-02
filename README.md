@@ -18,7 +18,7 @@
 
 ### 📂 Projetos em Destaque
 
-**[mindbase.live]**
+**[mindbase.live]** [Mindbase](https://www.mindbase.live]
 Desenvolvimento integral (*low-code*) de uma plataforma SaaS para gestão clínica, desenhada com foco na usabilidade de terapeutas e clientes e na privacidade rigorosa da informação.
 
 **[Infraestruturas & Redes]**
@@ -26,4 +26,4 @@ Laboratórios locais de cibersegurança em ambientes Apple Silicon, utilizando v
 
 ### 🔗 Links e Contactos
 * 💼 **LinkedIn:** [linkedin.com/in/omarcelocosta12](https://www.linkedin.com/in/omarcelocosta12/)
-* 🌐 **Site pessoal:** [Em desenvolvimento]# Marcelo
+* 🌐 **Site pessoal:** [Em desenvolvimento]
