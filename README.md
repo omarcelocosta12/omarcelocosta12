@@ -18,7 +18,7 @@
 
 ### 📂 Projetos em Destaque
 
-**[mindbase.live]** [Mindbase](https://www.mindbase.live]
+**[mindbase.live](https://www.mindbase.live)**
 Desenvolvimento integral (*low-code*) de uma plataforma SaaS para gestão clínica, desenhada com foco na usabilidade de terapeutas e clientes e na privacidade rigorosa da informação.
 
 **[Infraestruturas & Redes]**
