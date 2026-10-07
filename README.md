@@ -3,9 +3,9 @@
 **Cibersegurança • Proteção de Dados • UX/UI**
 
 ### 🎓 Formação & Certificações
-* **CTeSP em Segurança e Proteção de Dados** | IPCA (2026 – Presente)
-* **Google UX Design Professional Certificate**
-* **Google AI Professional Certificate**
+* CTeSP em Segurança e Proteção de Dados** | IPCA (2026 – Presente)
+* Google UX Design Professional Certificate**
+* Google AI Professional Certificate**
 
 ### 🔐 Áreas de Foco
 * Cibersegurança e Proteção de Dados
@@ -13,8 +13,8 @@
 * UX/UI e Desenvol§vimento Low-Code
 
 ### 🛠️ Tecnologias e Ferramentas
-* **Sistemas: Windows | macOS | Linux
-* **Desenvolvimento: Lovable | Google AI Studio | APIs 
+* Sistemas: Windows | macOS | Linux
+* Desenvolvimento: Lovable | Google AI Studio | APIs 
 
 ### 📂 Projetos
 
