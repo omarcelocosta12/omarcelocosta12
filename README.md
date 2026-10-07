@@ -22,7 +22,7 @@
 Desenvolvimento integral (*low-code*) de uma plataforma SaaS para gestão clínica, desenhada com foco na usabilidade de terapeutas e clientes e na privacidade rigorosa da informação.
 
 **[Infraestruturas & Redes]**
-Laboratórios locais de cibersegurança em ambientes Apple Silicon, utilizando virtualização avançada (UTM com Linux/Windows) e contentores para bases de dados (OrbStack/PostgreSQL).
+Laboratórios locais de cibersegurança em ambientes virtuais (UTM com Linux/Windows).
 
 ### 🔗 Links e Contactos
 * 💼 **LinkedIn:** [linkedin.com/in/omarcelocosta12](https://www.linkedin.com/in/omarcelocosta12/)
