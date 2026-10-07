@@ -1,22 +1,22 @@
 # 👋 Olá, sou o Marcelo
 
-**UX & Cibersegurança**
+**Cibersegurança • Proteção de Dados • UX/UI**
 
 ### 🎓 Formação & Certificações
 * **CTeSP em Segurança e Proteção de Dados** | IPCA (2026 – Presente)
-* **Google UX Design**
-* **Google AI**
+* **Google UX Design Professional Certificate**
+* **Google AI Professional Certificate**
 
 ### 🔐 Áreas de Foco
 * Cibersegurança e Proteção de Dados
 * Segurança da Informação e Privacidade
-* UX/UI e Desenvolvimento Low-Code
+* UX/UI e Desenvol§vimento Low-Code
 
 ### 🛠️ Tecnologias e Ferramentas
-* **Desenvolvimento:** Lovable | Google AI Studio | Integração de APIs 
-* **Infraestruturas:** Linux (ARM64) | Docker & OrbStack | UTM | PostgreSQL
+* **Sistemas: Windows | macOS | Linux
+* **Desenvolvimento: Lovable | Google AI Studio | APIs 
 
-### 📂 Projetos em Destaque
+### 📂 Projetos
 
 **[mindbase.live](https://www.mindbase.live)**
 Desenvolvimento integral (*low-code*) de uma plataforma SaaS para gestão clínica, desenhada com foco na usabilidade de terapeutas e clientes e na privacidade rigorosa da informação.
