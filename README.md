@@ -4,8 +4,8 @@
 
 ### 🎓 Formação & Certificações
 * CTeSP em Segurança e Proteção de Dados** | IPCA (2026 – Presente)
-* Google UX Design Professional Certificate**
-* Google AI Professional Certificate**
+* Google UX Design Professional Certificate
+* Google AI Professional Certificate
 
 ### 🔐 Áreas de Foco
 * Cibersegurança e Proteção de Dados
