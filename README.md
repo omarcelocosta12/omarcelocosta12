@@ -10,11 +10,11 @@
 ### 🔐 Áreas de Foco
 * Cibersegurança e Proteção de Dados
 * Segurança da Informação e Privacidade
-* UX/UI e Desenvol§vimento Low-Code
+* UX/UI e Desenvolvimento Low-Code
 
 ### 🛠️ Tecnologias e Ferramentas
 * Sistemas: Windows | macOS | Linux
-* Desenvolvimento: Lovable | Google AI Studio | APIs 
+* Desenvolvimento: Lovable | Google AI Studio | Figma 
 
 ### 📂 Projetos
 
